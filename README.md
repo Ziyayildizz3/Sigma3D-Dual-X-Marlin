@@ -1,5 +1,7 @@
 Sigma3D Dual-X 3D Firmware based on Marlin
 
+file:///C:/Users/hp-pc/Desktop/Ads%C4%B1z.png
+
 This is the repository that contains the firmware for the Dual-X Sigma 3D Printer. It's based on the well-known Marlin but with some modifications.
 
 Features
